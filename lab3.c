@@ -52,13 +52,13 @@ void  calc(double p, double r, int n) {
 	printf("Final payment\t $%.2lf\n", fpay);
 	printf("----------------------------------------------------------\n");
 
-	}
+}
 
 int main(void) {
 
 	double  principal,
 	        rate;
-	int      n;
+	int n;
 
 // enter the interest rate as the percentage form (i.e. 9.0 instead of .09)
 
